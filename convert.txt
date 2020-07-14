@@ -1,0 +1,44 @@
+protected function
+def
+
+public function
+def
+
+public const
+**bosluk**
+
+//.*
+**bosluk**
+
+{
+:
+
+}
+**bosluk**
+
+;
+**boşluk**
+
+$this->
+self.
+
+$this
+self
+
+():
+(self):
+
+->
+**boşluk**
+
+$
+**boşluk**
+
+): bool:
+) -> bool:
+
+) : integer:
+) -> int:
+
+) : string:
+) -> str:
